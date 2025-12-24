@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**codesbytarsi/codesbytarsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tarsila, a software engineering student based in Brazil 🇧🇷
 
-Here are some ideas to get you started:
+Halfway through my software engineering journey, focused on building cool, meaningful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Tools & Tech
+- **Languages:** C# (main focus), C++ (exploring & learning)
+- **Tools:** Git, GitHub
+
+---
+### 🌱 A Bit About Me
+- 🐶 Dog lover
+- 🎨 I enjoy drawing in my free time
+- 🎮 Exploring game development from time to time
+- 🔬 Interested in physics and how it applies to software and games
+- 📚 Always learning — both in tech and beyond
+- 🧠 Curious about how things work under the hood
+
+---
+### 🚀 Currently Focusing On
+- Strengthening my foundations in C#
+- Exploring low-level concepts through C++
+
+---
+> 💬 Always open to learning, building, and exchanging ideas.
